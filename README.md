@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Nagendra M Gowda
+# 👋 Hey there, I'm Nagendra M
 ---
 🌟 **Passionate Developer | Java & Spring Boot Enthusiast | Future Full-Stack Engineer**
 
