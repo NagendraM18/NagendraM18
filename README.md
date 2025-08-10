@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I'm a BCA student with a love for building things with code — especially backend systems using **Java & Spring Boot**. I’ve created projects that use powerful tech like **DTOs**, **Model Mapping**, **REST APIs**, and **MySQL**.  
 
-Currently, I’m expanding into frontend development with **HTML**, **CSS**, and **React**, working towards becoming a **complete full-stack or MEAN developer**. I believe in building clean, scalable, and user-friendly applications that solve real problems.
+Currently, I’m expanding into frontend development with **HTML**, **CSS**, and **React**, working towards becoming a **complete full-stack **. I believe in building clean, scalable, and user-friendly applications that solve real problems.
 
 ---
 
@@ -29,17 +29,16 @@ Currently, I’m expanding into frontend development with **HTML**, **CSS**, and
 ---
 
 ## 💡 What I’m Currently Working On
-- 📚 Sharpening my Spring Boot skills – `DTOs`, `@Autowired`, `@Service`, `REST APIs`
+- 📚 Sharpening my Spring Boot skills – DTOs, @Autowired, @Service,REST APIs,'validation','Exception Handler','Aspect Annotation','spring Data JPA',
 - 🎨 Creating responsive UIs with **React.js** and **Tailwind CSS**
 - 🔄 Connecting frontend to backend using RESTful services
-- 🧠 Exploring **Machine Learning basics** for upcoming hackathons
-
+- 🧠 Exploring **Machine Learning basics**
 ---
 
 ## 🏆 Achievements & Highlights
 - 🧑‍🏫 Hosted and participated in **inter-college coding events**
 - 🏅 Certified in **Java Basics – HackerRank**
-- 🎓 Pursuing BCA (4th Sem) with a **9.2 CGPA**
+- 🎓 Pursuing BCA (5th Sem) with a **9.2 CGPA**
 - 👨‍💻 Built real-world projects with image storage (Base64), file handling, and byte arrays
 
 ---
